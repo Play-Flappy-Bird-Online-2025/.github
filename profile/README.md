@@ -47,7 +47,7 @@ This is not just a clone. The Flappy Bird version on [onlineflappybird.com](http
 - **Smooth Performance**: No lag or delay – just instant gameplay.
 - **Modern Design**: Clean, dark-themed background for a soothing experience.
 - **Leaderboard**: Compete with others and see how you rank!
-- **Blog Section**: Read fun articles like the [History of Flappy Bird Game](https://onlineflappybird.com/blog/history-of-flappy-bird), top tips, and more.
+- **Blog Section**: Read fun articles like the [History of Flappy Bird Game](https://onlineflappybird.com/blog/history-of-flappy-bird.html), top tips, and more.
 - **Mobile-Optimized UI**: Play comfortably on your phone or tablet.
 
 Whether you’re revisiting your childhood or discovering the craze for the first time, this version brings back all the nostalgia – with smoother controls and modern tweaks.
@@ -76,7 +76,7 @@ Want to break your personal best or dominate the leaderboard? Here are a few tri
 - 🎮 **Use a Mouse or Keyboard**: On desktop, you might find it easier than touch controls.
 - 📶 **Stable Internet**: While the game is lightweight, smoother internet helps avoid input lags.
 
-Want more strategies? Check out our full blog post: [Top 10 Tips to Score Higher in Flappy Bird](https://onlineflappybird.com/blog/top-10-tips-and-tricks-to-score-higher)
+Want more strategies? Check out our full blog post: [Top 10 Tips to Score Higher in Flappy Bird](https://onlineflappybird.com/blog/flappy-bird-tips-and-tricks.html)
 
 ---
 
